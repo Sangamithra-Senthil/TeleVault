@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TeleVault</string>
+    <string name="menu_refresh">Refresh\n</string>
+    <string name="username">UserName</string>
+    <string name="cast">Cast</string>
+    <string name="reviews">Reviews</string>
+    <string name="similar_to_this">Similar to this</string>
+    <string name="hot_picks_the_most_popular_series_right_now">Hot Picks: The Most Popular Series Right Now!</string>
+    <string name="castname">CastName</string>
+    <string name="aug_09_2024">Aug 09,2024</string>
+</resources>
