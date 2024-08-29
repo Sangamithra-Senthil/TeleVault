@@ -23,7 +23,7 @@ TeleVault is an all-in-one TV series tracker and encyclopedia that allows users 
 - Internet connection
 
 ### Steps
-1. Clone the repository: `git clone https://github.com/yourusername/TeleVault.git`
+1. Clone the repository: `git clone https://github.com/Sangamithra-Senthil/TeleVault.git`
 2. Open the project in Android Studio.
 3. In MainRepository, please update YOUR_API_KEY with your api key. 
 4. Sync the project with Gradle files.
